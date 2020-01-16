@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "rfidTag": "07cbaf6e",
+        "title": "Calculus 8th Edition",
+        "year": 2016,
+        "author": "Hearn (Author)",
+        "code": "29383",
+        "ISBN": "2322393948483333243",
+        "image": "https://ebookschoice.com/wp-content/uploads/2019/04/Calculus-8th-edition-by-James-Stewart.jpg"
+    },
+    {
+        "id": 2,
+        "rfidTag": "07cbaf6e",
+        "title": "Introductory Electrical Engineering",
+        "year": 2019,
+        "author": "Hearn (Author)",
+        "code": "54321",
+        "ISBN": "3214124124124324442",
+        "image": "https://cv02.twirpx.net/2967/2967033.jpg?t=20191106163258"
+    }
+]
