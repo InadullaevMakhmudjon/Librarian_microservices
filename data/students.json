@@ -7,7 +7,7 @@
         "studentId": "U1710047",
         "department": "SOCIE",
         "status": "No overdue",
-        "type": "student",
+        "type": "Student",
         "image": "/assets/makhmudjon.jpg"
     },
     {
@@ -18,7 +18,7 @@
         "studentId": "U1710008",
         "department": "SOCIE",
         "status": "No overdue",
-        "type": "student",
+        "type": "Student",
         "image": "/assets/azamat.jpg"
     },
     {
@@ -29,7 +29,18 @@
         "studentId": "U1710073",
         "department": "SOCIE",
         "status": "No overdue",
-        "type": "student",
+        "type": "Student",
         "image": "/assets/saidakbar.jpg"
+    },
+    {
+        "id": 4,
+        "rfidTag": "607a435f",
+        "name": "Zafar",
+        "secondName": "Davlatov",
+        "studentId": "-",
+        "department": "-",
+        "status": "No overdue",
+        "type": "Staff",
+        "image": "/assets/staff.png"
     }
 ]
